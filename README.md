@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Kendal!
 
-<a href="linkedin.com/in/kevin-daniel-lozano-285743242">
+<a href="[linkedin.com/in/kevin-daniel-lozano-285743242](https://www.linkedin.com/in/kevin-daniel-lozano-285743242/)">
   <img align="left" width="200px" src="URL_DE_TU_FOTO_DE_LINKEDIN_O_GITHUB" />
 </a>
 
