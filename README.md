@@ -1,15 +1,10 @@
 ### Hi there 👋, I'm Kendal!
-
-<a href="linkedin.com/in/kevin-daniel-lozano-285743242](https://www.linkedin.com/in/kevin-daniel-lozano-285743242/">
-  <img align="left" width="200px" src="URL_DE_TU_FOTO_DE_LINKEDIN_O_GITHUB" />
-</a>
-
 Soy un desarrollador XR y estudiante de Ingeniería en Sistemas de Bolivia, apasionado por construir experiencias que mezclan lo virtual y lo humano. Mi objetivo es crear aplicaciones inmersivas con impacto en la educación, la cultura y la conexión social.
 
 - 🔭 Actualmente estoy finalizando mi proyecto de grado: **Sendero AR**.
 - 🌱 Estoy aprendiendo más sobre optimización en Unity y la integración de IA generativa.
 - 👯 Busco colaborar en proyectos de código abierto relacionados con VR/AR.
-- 📫 Cómo contactarme: A través de mi [LinkedIn](https://www.linkedin.com/in/kevin-daniel-lozano-1b3b18233/).
+- 📫 Cómo contactarme: A través de mi [LinkedIn]([https://www.linkedin.com/in/kevin-daniel-lozano-1b3b18233/](https://www.linkedin.com/in/kevin-daniel-lozano-285743242/)).
 
 <br/>
 
