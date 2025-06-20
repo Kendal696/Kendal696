@@ -143,14 +143,8 @@ typescriptconst KendalVR = {
 <div align="center">
 🏫 EduVerse Bolivia - VR Education Platform
 Revolutionizing education through immersive experiences
-Show Image
-Show Image
-Show Image
 🧠 AI-XR Integration Suite - Intelligent Immersive Apps
 Bringing AI consciousness to virtual worlds
-Show Image
-Show Image
-Show Image
 🎭 Cultural Heritage VR - Preserving History
 Digitally preserving Bolivia's rich cultural heritage
 </div>
