@@ -10,7 +10,7 @@
 
 🌟 ABOUT ME
 typescriptconst KendalVR = {
-  location: "🇧🇴 La Paz, Bolivia → 🌍 Building for the World",
+  location: "🇧🇴 Santa Cruz, Bolivia → 🌍 Building for the World",
   title: "XR Developer & AI Integration Specialist",
   mission: "Bridging Physical & Digital Realities",
   
