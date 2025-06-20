@@ -153,9 +153,6 @@ Show Image
 Show Image
 🎭 Cultural Heritage VR - Preserving History
 Digitally preserving Bolivia's rich cultural heritage
-Show Image
-Show Image
-Show Image
 </div>
 
 🤝 LET'S CONNECT & COLLABORATE
