@@ -166,13 +166,6 @@ Digitally preserving Bolivia's rich cultural heritage
     <img src="https://img.shields.io/badge/Discord-XR_Community-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
-💡 Open to Collaboration On:
-
-🚀 XR Educational Projects - Transforming learning experiences
-🤖 AI-Powered VR Applications - Intelligent immersive solutions
-🌍 Social Impact XR - Technology for positive change
-🎓 Student Mentorship - Guiding the next generation
-📚 Open Source XR Tools - Building for the community
 
 </div>
 
